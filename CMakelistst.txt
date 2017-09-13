@@ -1,3 +1,4 @@
 cmake_minimum_required( VERSION 2.8 )
 project( CPlusPlusBaseProj )
 add_executable(Tarea5 array.cpp)
+add_executable(Tarea6 alpha.cpp)
